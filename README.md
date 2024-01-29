@@ -19,6 +19,7 @@
 ---
 
 ![image](https://github.com/GabrielFelipeOliveiraRateiroDev/Barbearia-Stylus/assets/149724308/82e47369-1308-4dc9-bc53-5a33a89e5c14)
+
 ---
 
 #### Autoria | Inspiração
