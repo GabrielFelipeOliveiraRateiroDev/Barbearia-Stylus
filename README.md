@@ -22,6 +22,10 @@
 
 ---
 
+Usei o print do projeto, mas considere acessar o link abaixo para melhor experiência:
+
+[Barbearia Stylus](https://gabrielfelipeoliveirarateirodev.github.io/Barbearia-Stylus/)
+
 #### Autoria | Inspiração
 
 -> O Projeto foi criado por [Gabriel Felipe de Oliveira Rateiro](https://github.com/GabrielFelipeOliveiraRateiroDev) </br>
